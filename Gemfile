@@ -67,3 +67,6 @@ end
 
 # Include simple_form
 gem 'simple_form'
+
+# Include devise
+gem 'devise'
