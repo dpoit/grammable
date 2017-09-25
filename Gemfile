@@ -71,3 +71,12 @@ gem 'simple_form'
 
 # Include devise
 gem 'devise'
+
+# Include CarrierWave
+gem 'carrierwave', '~> 1.0'
+
+# Include Figaro for securely storing API creds
+gem 'figaro'
+
+# Include fog-aws for carrierwave to communicate with Amazon S3
+gem 'fog-aws'
