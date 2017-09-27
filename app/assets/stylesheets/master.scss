@@ -10,8 +10,9 @@ body {
   border-bottom-color: #edeeee;
   border-bottom-width: 1px;
   border-bottom-style: solid;
-  height: 70px;
+  // height: 70px;
   padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 .brand a {
@@ -127,4 +128,8 @@ input#gram_picture.file.required {
   color: #125688;
   font-weight: bold;
   font-size: 18px;
+}
+
+.user {
+  font-size: 10px;
 }
