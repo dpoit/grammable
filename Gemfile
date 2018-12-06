@@ -58,9 +58,11 @@ group :development, :test do
   gem 'factory_girl_rails', '~> 4.0'
 end
 
+# Include popper_js
+gem 'popper_js', '~> 1.14.5'
+
 # Include bootstrap
-gem 'popper_js', '~> 1.11.1'
-gem 'bootstrap', '4.0.0.alpha6'
+gem 'bootstrap', '>= 4.1.2'
 
 source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.3.3'
