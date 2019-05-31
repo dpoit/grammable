@@ -30,7 +30,7 @@ For grams you have created, you will also see 'Edit' and 'Delete' links that wil
 
 To add a comment to a gram, scroll to the box beneath the gram. Type your comment into the text field, then click 'Add Comment'.
 
-<img src="https://i.imgur.com/aE7UwMP.png" alt="Comments" width="500"/>
+<img src="https://i.imgur.com/SROH3SV.png" alt="Comments" width="500"/>
 
 Your comment will be displayed, along with any other comments that have been added to that gram.
 
