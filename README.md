@@ -4,7 +4,7 @@ An Instagram clone that was built using industry-standard, test-driven developme
 
 ## URL
 
-[https://github.com/dpoit/grammable](https://github.com/dpoit/grammable)
+[https://github.com/dpoit/grammable/](https://github.com/dpoit/grammable/)
 
 ## Authors
 
