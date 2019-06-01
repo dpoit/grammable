@@ -42,6 +42,17 @@ This application has been developed with Test-Driven Development using RSpec. To
 bundle exec rspec
 ```
 
+## Tech used
+
+* [Rails](https://rubyonrails.org/) (5.0.7.2)
+* [RSpec](https://rspec.info/) (3.8.2)
+* [Bootstrap](https://getbootstrap.com/) (4.3.1)
+* [simple_form](https://github.com/plataformatec/simple_form) (4.1.0)
+* [Devise](https://github.com/plataformatec/devise) (4.6.2)
+* [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) (1.3.1)
+* [Figaro](https://github.com/laserlemon/figaro) (1.1.1)
+* [AWS](https://aws.amazon.com/)/[fog-aws](https://github.com/fog/fog-aws) (3.4.0)
+
 ## Authors
 
 * **[Danny Poit](https://github.com/dpoit)**
