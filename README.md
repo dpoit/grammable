@@ -4,7 +4,7 @@ An Instagram clone that was built using industry-standard, test-driven developme
 
 ## URL
 
-[https://grammable-danny-poit.herokuapp.com/](https://grammable-danny-poit.herokuapp.com/)
+[http://grammable.dannypoit.com/](http://grammable.dannypoit.com/)
 
 ## Users
 
