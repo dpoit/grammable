@@ -52,10 +52,10 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-# Include the rspec-rails testing framework
+# Include the rspec-rails testing framework and factory_bot
 group :development, :test do
   gem 'rspec-rails', '~> 3.6'
-  gem 'factory_girl_rails', '~> 4.0'
+  gem 'factory_bot_rails'
 end
 
 # Include popper_js
