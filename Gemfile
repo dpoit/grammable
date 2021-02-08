@@ -75,7 +75,7 @@ gem 'simple_form'
 gem 'devise'
 
 # Include CarrierWave
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave', '~> 1.3'
 
 # Include Figaro for securely storing API creds
 gem 'figaro'
